@@ -13,11 +13,16 @@ public class Address {
 	private String street;
 	private String city;
 	private String zip;
-	public Address(String street, String city, String zip) {
+	private String country;
+
+	public Address(){}
+
+	public Address(String street, String city, String zip, String country) {
 		super();
 		this.street = street;
 		this.city = city;
 		this.zip = zip;
+		this.country = country;
 	}
 	public String getStreet() {
 		return street;
@@ -37,6 +42,12 @@ public class Address {
 	public void setZip(String zip) {
 		this.zip = zip;
 	}
+	public String getCountry() {
+		return zip;
+	}
+	public void setCountry(String country) {
+		this.country = country;
+	}
 
 	@Override
 	public String toString() {
@@ -45,6 +56,7 @@ public class Address {
 				", street='" + street + '\'' +
 				", city='" + city + '\'' +
 				", zip='" + zip + '\'' +
+				", country='" + country + '\'' +
 				'}';
 	}
 }

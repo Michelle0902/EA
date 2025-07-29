@@ -7,6 +7,10 @@ import java.util.Collection;
 import java.util.Collections;
 
 @Entity
+@NamedQuery(
+		name = "Customer.findAllFromUSA",
+		query = "SELECT c FROM Customer c WHERE c.address.city = 'USA'"  // or `c.address.country = 'USA'` if such a field exists
+)
 public class Customer {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -17,17 +21,15 @@ public class Customer {
 	@OneToOne(cascade = CascadeType.ALL)
 	private Address address;
 
-	@OneToMany(mappedBy = "customer", cascade = CascadeType.ALL)
+	@OneToMany(mappedBy = "customer", cascade = CascadeType.ALL, fetch = FetchType.EAGER)
 	private Collection<Order> theOrders = new ArrayList<Order>();
 
 	public Customer() {
 	}
 
-	public Customer(String firstname, String lastname, String street,
-			String city, String zip) {
+	public Customer(String firstname, String lastname) {
 		this.firstname = firstname;
 		this.lastname = lastname;
-		this.address = new Address(street, city, zip);
 	}
 
 
@@ -70,5 +72,16 @@ public class Customer {
 			theOrders.remove(order);
 		}
 		return removed;
+	}
+
+	@Override
+	public String toString() {
+		return "Customer{" +
+				"cus_id=" + cus_id +
+				", firstname='" + firstname + '\'' +
+				", lastname='" + lastname + '\'' +
+				", address=" + address +
+				", theOrders=" + theOrders +
+				'}';
 	}
 }

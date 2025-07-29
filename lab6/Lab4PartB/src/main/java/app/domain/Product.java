@@ -4,8 +4,8 @@ package app.domain;
 import jakarta.persistence.*;
 
 @Entity
-@Inheritance(strategy = InheritanceType.SINGLE_TABLE)
-@DiscriminatorColumn(name = "product_type", discriminatorType = DiscriminatorType.STRING)
+@Inheritance(strategy = InheritanceType.JOINED)
+//@DiscriminatorColumn(name = "product_type", discriminatorType = DiscriminatorType.STRING)
 public class Product {
 
 	@Id
@@ -48,5 +48,15 @@ public class Product {
 
 	public void setPrice(double price) {
 		this.price = price;
+	}
+
+	@Override
+	public String toString() {
+		return "Product{" +
+				"product_id=" + product_id +
+				", name='" + name + '\'' +
+				", description='" + description + '\'' +
+				", price=" + price +
+				'}';
 	}
 }

@@ -24,4 +24,11 @@ public class DVD extends Product {
     public void setGenre(String genre) {
         this.genre = genre;
     }
+
+    @Override
+    public String toString() {
+        return "DVD{" +
+                "genre='" + genre + '\'' +
+                '}';
+    }
 }

@@ -13,7 +13,7 @@ public class OrderLine {
 
 	private int quantity;
 
-	@OneToOne(cascade = CascadeType.PERSIST )
+	@ManyToOne (cascade={CascadeType.PERSIST})
 	private Product product;
 
 	public OrderLine() {
