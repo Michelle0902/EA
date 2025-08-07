@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42b297f1-254a-4bb9-91b5-c954cb9f372a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PartA/SecurityApplication/src/main/java/SecurityApplication/SecurityApplication/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PartA/SecurityApplication/src/main/java/SecurityApplication/SecurityApplication/controller/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PartA/Grafa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/domain/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/dto/AccountDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/dto/AccountDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/jms/JMSSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/jms/JMSSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/KafkaSender/src/main/java/kafka/SenderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab9/KafkaSender/src/main/java/kafka/SenderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/Lab9Receiver/src/main/java/jms/SpringJmsReceiverApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab9/Lab9Receiver/src/main/java/jms/SpringJmsReceiverApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/Lab9Sender/src/main/java/jms/SpringJmsPersonSenderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab9/Lab9Sender/src/main/java/jms/SpringJmsPersonSenderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/Lab9Sender/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab9/Lab9Sender/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/.idea/Lab5partC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/dao/AccountDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/dao/IAccountDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/domain/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/domain/AccountEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/domain/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/dto/AccountAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/dto/AccountDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/dto/CustomerDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/jms/IJMSSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/jms/JMSSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/logging/ILogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/logging/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/repository/AccountEntryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/repository/AccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/service/CurrencyConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/service/IAccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/service/ICurrencyConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/service/aop/DALogAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/service/aop/JMSLogAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/java/bank/service/aop/StopWatchAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partB/BankApplication - Part4/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partD/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab9/partD/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partD/BankApplication/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab9/partD/BankApplication/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/partD/BankApplication/src/main/java/bank/config/KafkaConsumerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab9/partD/BankApplication/src/main/java/bank/config/KafkaConsumerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/taxService/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/taxService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/taxService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/taxService/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/taxService/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/taxService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/taxService/src/main/java/TaxService/taxService/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/taxService/src/main/java/TaxService/taxService/TaxMessageListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/taxService/src/main/java/TaxService/taxService/TaxServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/taxService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/taxService/src/test/java/TaxService/taxService/TaxServiceApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Michelle0902"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Michelle0902/EA.git",
+    "accountId": "21df1255-c109-48e9-a1ea-e9c4520c6699"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="1k7Jt6saXXGDuyRhjWaL4e43lbr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nama/EA/lab12/WebSecurityProject2",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\waa\" />
+      <recent name="C:\springtraining\solutions\" />
+      <recent name="C:\waa\workspacenew" />
+      <recent name="C:\springtraining\solutions" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="myapplication.security" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myapplication.Application" />
+      <module name="WebSecurityProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myapplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="books.BookServiceApplication" />
+      <module name="WebSecurityProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myapplication.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="WebSecurityProject2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="WebSecurityProject2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.BookServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42b297f1-254a-4bb9-91b5-c954cb9f372a" name="Default Changelist" comment="" />
+      <created>1605045911785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605045911785</updated>
+    </task>
+    <servers />
+  </component>
+</project>
