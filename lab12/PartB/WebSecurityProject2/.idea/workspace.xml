@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42b297f1-254a-4bb9-91b5-c954cb9f372a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PartA/SecurityApplication/src/main/java/SecurityApplication/SecurityApplication/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PartA/SecurityApplication/src/main/java/SecurityApplication/SecurityApplication/controller/ShopController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PartA/Grafa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/Lab5partC/BankApplication - Part4/src/main/java/bank/domain/Account.java" afterDir="false" />
@@ -112,6 +110,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
