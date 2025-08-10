@@ -1,6 +1,7 @@
 package prompt.controller;
 
 import org.springframework.ai.chat.client.ChatClient;
+import org.springframework.ai.chat.model.ChatResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -11,7 +12,7 @@ public class SimpleController {
     private ChatClient chatClient;
 
     @GetMapping("/chat")
-    public String chat(@RequestParam String message) {
+    public ChatResponse chat(@RequestParam String message) {
         return chatClient.prompt()
                 .system("""
                         Your function is to give information about pet healthcare.
@@ -20,6 +21,6 @@ public class SimpleController {
                         """)
                 .user(message)
                 .call()
-                .content();
+                .chatResponse();
     }
 }
